@@ -1,4 +1,4 @@
-"""Gets data from GitLab and produces objects with the data."""
+"""Gets data from GitLab and produces objects with the data ."""
 
 import pickle
 import os
